@@ -2,12 +2,12 @@
 /*
  * Class Name: Tailwind_Navwalker
  * Plugin Name: Tailwind Navwalker
- * Plugin URI:  https://github.com/wp-bootstrap/Tailwind-Navwalker
+ * Plugin URI:  https://github.com/wpvillain/tailwind-navwalker
  * Description: A custom WordPress nav walker class to implement Tailwind navigation style in a custom theme using the WordPress built in menu manager.
  * Author: Edward McIntyre - @twittem, WP Bootstrap, William Patton - @pattonwebz
  * Version: 4.1.0
- * Author URI: https://github.com/wp-bootstrap
- * GitHub Plugin URI: https://github.com/wp-bootstrap/Tailwind-Navwalker
+ * Author URI: https://github.com/wpvillain/tailwind-navwalker
+ * GitHub Plugin URI: https://github.com/wpvillain/tailwind-navwalker
  * GitHub Branch: master
  * License: GPL-3.0+
  * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
