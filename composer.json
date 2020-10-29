@@ -11,12 +11,5 @@
             "email": "jasper@wpvilla.in"
         }
     ],
-    "require": {
-        "composer/installers": "~1.0"
-    },
-    "extra": {
-        "installer-paths": {
-            "public/content/mu-plugins/{$name}/": ["type:wordpress-muplugin"]
-        }
-    }
+    "require": {}
 }
