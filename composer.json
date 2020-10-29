@@ -3,7 +3,7 @@
     "description": "Tailwind Navwalker Menu for WordPress",
     "keywords": ["navwalker","menu","tailwind css"],
     "homepage": "https://wpvilla.in",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
@@ -11,5 +11,12 @@
             "email": "jasper@wpvilla.in"
         }
     ],
-    "require": {}
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-paths": {
+            "public/content/mu-plugins/{$name}/": ["type:wordpress-muplugin"]
+        }
+    }
 }
