@@ -4,7 +4,7 @@
     "keywords": ["navwalker","menu","tailwind css"],
     "homepage": "https://wpvilla.in",
     "type": "wordpress-plugin",
-    "license": "GNU GPL 3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Jasper Frumau",
