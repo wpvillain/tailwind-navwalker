@@ -1,0 +1,15 @@
+{
+    "name": "wpvillain/tailwind-navwalker",
+    "description": "Tailwind Navwalker Menu for WordPress",
+    "keywords": ["navwalker","menu","tailwind css"],
+    "homepage": "https://wpvilla.in",
+    "type": "wordpress-plugin",
+    "license": "GNU GPL 3.0",
+    "authors": [
+        {
+            "name": "Jasper Frumau",
+            "email": "jasper@wpvilla.in"
+        }
+    ],
+    "require": {}
+}
